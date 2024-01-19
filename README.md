@@ -22,17 +22,4 @@
  <a href="https://discord.gg/eEFPcXdcxR" rel="nofollow"><img src="https://camo.githubusercontent.com/7856ec0557b4de7dd3ede8e2612d2586f47bd2e7bf67e2413bade38f22b44693/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a> 
   <a href="mailto:joezinhoooo@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </div><br>
-<details open="">
-  <summary><b>Estatísticas do Github</b></summary>
-  <br>
-  <div align="left" dir="auto"> 
-     <a href="https://github.com/sordix">
-      <img width="450px" align="left" src="https://camo.githubusercontent.com/4abc90deab3350ea6b58ec6799448e3949f86ee96f36b709c5bc1009b8c1930f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d736f726469782673686f775f69636f6e733d74727565267468656d653d6d69646e696768742d707572706c6526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sordix&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-    </a>
-    <a href="https://github.com/sordix">
-      <img width="350px" align="left" src="https://camo.githubusercontent.com/f45adf3d2c7f84a097feda17e7ca20412d87cfc5b150223887028510cf93a59b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736f72646978266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6d69646e696768742d707572706c65" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sordix&amp;layout=compact&amp;langs_count=7&amp;theme=midnight-purple" style="max-width: 100%;">
-    </a>  
-</div>
-<br>
-</details>
 </article>
