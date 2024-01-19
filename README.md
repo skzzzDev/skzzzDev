@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm skzzzz</h1>
 <h3 align="center">Dev Junior, front-end porém se espeializando em Back-end</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
