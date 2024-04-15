@@ -26,11 +26,8 @@
   <br/>
   <div align="left"> 
      <a href="https://github.com/skzzzDev">
-      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=skzzzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzzzdev&show_icons=true&theme=midnight-purple&locale=en&layout=compact"/>
     </a>
-    <a href="https://github.com/skzzzDev">
-      <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skzzzdev&layout=compact&langs_count=7&theme=midnight-purple">
-    </a>  
 </div>
 <br/>
 </details>
