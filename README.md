@@ -26,7 +26,7 @@
   <br/>
   <div align="left"> 
      <a href="https://github.com/skzzzDev">
-      <img width="250px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzzzdev&show_icons=true&theme=midnight-purple&locale=en&layout=compact"/>
+      <img width="250px" align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=skzzzdev&show_icons=true&theme=midnight-purple&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=skzzzDev&theme=dracula&show_icons=true&hide_border=true&layout=compact)"/>
     </a>
 </div>
 <br/>
