@@ -1,13 +1,36 @@
-<h1 align="center">Hi 👋, I'm skz!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Rafael Sordi
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🔭 Hoje trabalho com front-end!
+- 🌱 Estudando JavaScript, React, Ts e outras linguagens!
+- 💬 Fale comigo: skzzzzzz (discord)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzzzdev&show_icons=true&locale=en&layout=compact" alt="skzzzdev" /></p>
+### <em>Ferramentas e Tecnologias</em>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skzzzdev&show_icons=true&locale=en" alt="skzzzdev" /></p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="skx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="skx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="skx-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="skx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="skx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="skx-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/838827148143493150/1123651035731337349/Code_typing-bro.png">
+</div>
+  
+  
+  ##
+ 
+<br>
+
+<details hide>
+  <summary><b>Estatísticas do Github</b></summary>
+  <br/>
+  <div align="left"> 
+     <a href="https://github.com/skzzzDev">
+      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=skzzzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/skzzzDev">
+      <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skzzzdev&layout=compact&langs_count=7&theme=midnight-purple">
+    </a>  
+</div>
+<br/>
+</details>
