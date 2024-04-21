@@ -20,14 +20,8 @@
   ##
  
 <br>
-
-<details hide>
-  <summary><b>Estatísticas do Github</b></summary>
-  <br/>
   <div align="left"> 
      <a href="https://github.com/skzzzDev">
       <img width="250px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skzzzDev&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
     </a>
 </div>
-<br/>
-</details>
