@@ -45,7 +45,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/skzzzDev/skzzzDev/output/snake.svg" alt="Snake animation" />
-
 ###
