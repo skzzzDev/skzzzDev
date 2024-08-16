@@ -41,11 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/skzzzDev/skzzzDev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-sordi-b98770269/" target="_blank">
