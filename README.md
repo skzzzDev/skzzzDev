@@ -1,4 +1,4 @@
-<p align="center">Hello World!!</p>
+<p align="center">🙋🏻‍♂️ I’m Rafael Sordi, I’m 18 years old, I’ve been in a relationship for 2 years, and I’m finishing high school. I’ve been working in the development field since 2020. Around mid-2022, I started to develop a greater interest in back-end development, which is now my main focus.</p>
 
 ###
 
