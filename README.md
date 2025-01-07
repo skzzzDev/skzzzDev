@@ -1,4 +1,6 @@
-<p align="center">🙋🏻‍♂️ I’m Rafael Sordi, I’m 18 years old, I’ve been in a relationship for 2 years, and I’m finishing high school. I’ve been working in the development field since 2020. Around mid-2022, I started to develop a greater interest in back-end development, which is now my main focus.</p>
+<p align="center">🙋🏻‍♂️ Sou Rafael Sordi, estudante de Ciência da Computação na UNICSUL. Trabalho na área de desenvolvimento desde 2020, adquirindo experiência prática em diversas tecnologias. Por volta de meados de 2022, descobri uma forte paixão pelo desenvolvimento back-end, que desde então se tornou meu foco principal. No entanto, meu objetivo é me tornar um desenvolvedor full stack completo, proficiente tanto em tecnologias de front-end quanto de back-end.
+
+Estou aprimorando ativamente minhas habilidades em frameworks e linguagens como React, Next.js, Node.js, TypeScript e JavaScript, enquanto exploro continuamente novas ferramentas e metodologias para entregar soluções eficientes e escaláveis. Minha ambição é dominar o espectro full stack, contribuindo para projetos impactantes e crescendo como um desenvolvedor versátil.</p>
 
 ###
 
